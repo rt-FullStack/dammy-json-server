@@ -1,0 +1,54 @@
+
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "Essence Mascara long-lasting and cruelty-free formula.",
+      "completed": false,
+      "dueDate": "2025-08.25"
+      "userId": 2,
+      "categoryId": "2",
+     
+}, 
+
+{
+     "id": 2,
+      "title": "Essence Mascara Lash",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
+      "completed": false,
+      "dueDate": "2025-07.25"
+      "userId": 1,
+      "categoryId": "2",
+     
+}, 
+{
+     "id": 3,
+      "title": "Mascara Lash Princess",
+      "description": "Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "completed": false,
+      "dueDate": "2025-06.25"
+      "userId": 1,
+      "categoryId": "2",
+
+],
+
+{
+  "users": [
+    {
+      "id": 50,
+      "name": "Emily",
+      "email": "emily@exemple.com", 
+    }, 
+{
+      "id": 51,
+      "name": "Alice",
+      "email": "alice@exemple.com", 
+    }, 
+{
+      "id": 53,
+      "name": "Bob",
+      "email": "bob@exemple.com", 
+    }, 
+  ],
+  }, 
