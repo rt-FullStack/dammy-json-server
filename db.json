@@ -44,11 +44,28 @@
       "id": 51,
       "name": "Alice",
       "email": "alice@exemple.com", 
-    }, 
+}
+
+
 {
       "id": 53,
       "name": "Bob",
       "email": "bob@exemple.com", 
-    }, 
+    } 
   ],
-  }, 
+
+    "Category": [
+      {
+      "id": 1,
+      "name": "work",
+      },
+       {
+      "id": 1,
+      "name": "work",
+      },
+       {
+      "id": 1,
+      "name": "work",
+      },
+    ]
+  }
